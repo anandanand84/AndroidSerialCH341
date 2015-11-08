@@ -1,0 +1,3 @@
+/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/intermediates/classes/debug
+/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/intermediates/pre-dexed/debug/CH34xDriver-64a7f59a6540551a5c092402f159cb6ed5237eb3.jar
+/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/intermediates/pre-dexed/debug/android-support-v4-221fc723e324a9c6e9ea99ff97881a4672176219.jar

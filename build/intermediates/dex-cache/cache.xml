@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/intermediates/pre-dexed/debug/android-support-v4-221fc723e324a9c6e9ea99ff97881a4672176219.jar" />
+    </item>
+    <item
+        jar="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/libs/CH34xDriver.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="62daf61b6a7ef282bd11f802da23eb73830e58b9">
+        <dex dex="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/intermediates/pre-dexed/debug/CH34xDriver-64a7f59a6540551a5c092402f159cb6ed5237eb3.jar" />
+    </item>
+    <item
+        jar="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/libs/CH34xDriver.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62daf61b6a7ef282bd11f802da23eb73830e58b9">
+        <dex dex="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/intermediates/pre-dexed/debug/CH34xDriver-64a7f59a6540551a5c092402f159cb6ed5237eb3.jar" />
+    </item>
+    <item
+        jar="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/intermediates/pre-dexed/debug/android-support-v4-221fc723e324a9c6e9ea99ff97881a4672176219.jar" />
+    </item>
+
+</items>

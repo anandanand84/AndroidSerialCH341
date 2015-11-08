@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/menu/uart_loop_back.xml -->

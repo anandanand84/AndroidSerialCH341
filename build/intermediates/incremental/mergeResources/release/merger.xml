@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res"><file name="button_pattern" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/drawable-hdpi/button_pattern.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/drawable-hdpi/icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="main" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/layout/main.xml" qualifiers="" type="layout"/><file name="my_spinner_textview" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/layout/my_spinner_textview.xml" qualifiers="" type="layout"/><file name="uart_loop_back" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/menu/uart_loop_back.xml" qualifiers="" type="menu"/><file path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/values/strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="flow">Flow</string><string-array name="parity">        
+		<item>None</item>        
+		<item>Odd</item>
+		<item>Even</item>
+		<item>Mark</item>
+		<item>Space</item>
+	</string-array><string name="action_settings">Settings</string><string name="read_bytes">Read Bytes</string><string name="app_name">WchUsbDriver</string><string-array name="stop_bits">        
+		<item>1</item>        
+		<item>2</item>        
+	</string-array><string name="baudRate">Baud rate</string><string name="stop_bit">StopBits</string><string name="write">Write</string><string-array name="baud_rate">        
+		<item>300</item>        
+		<item>600</item>        
+		<item>1200</item>     
+		<item>2400</item>   
+		<item>4800</item>        
+		<item>9600</item>        
+		<item>19200</item>        
+		<item>38400</item>        
+		<item>57600</item>
+		<item>115200</item>
+		<item>230400</item>    
+		<item>460800</item>
+		<item>921600</item>
+	</string-array><string name="write_bytes">Write Bytes</string><string name="config">Config</string><string-array name="data_bits">   
+	    <item>5</item>
+	    <item>6</item>
+		<item>7</item>        
+		<item>8</item>        
+	</string-array><string name="data_bit">DataBits</string><string-array name="flow_control">        
+		<item>None</item>        
+		<item>CTS/RTS</item>
+	</string-array><string name="baud_rate_str">Baud rate</string><string name="parity_str">Parity</string></file><file path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="device_filter" path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/res/xml/device_filter.xml" qualifiers="" type="xml"/></source><source path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/generated/res/rs/release"/><source path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build/generated/res/generated/release"/></dataSet><dataSet config="release"><source path="/Users/AAravindan/Downloads/CH341SER_ANDROID/Demo/WchUsbDriver/build-types/release/res"/></dataSet><mergedItems/></merger>
